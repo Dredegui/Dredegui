@@ -1,4 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+
+
+🔭 I’m currently working on my Master's thesis on black-box observability and testing of distributed systmes
+
+## 🌱 Github Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dredegui&theme=dark" alt="Dredegui"/></p>
+
+### More
+
+1. Gitlab: https://gitlab.com/Dredegui
+2. Linkedin: https://www.linkedin.com/in/guilherme-m-pascoal
 
 <!--
 **Dredegui/Dredegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
