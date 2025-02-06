@@ -5,7 +5,7 @@
 
 ## 🌱 Github Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dredegui&theme=dark" alt="Dredegui"/></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dredegui)](https://git.io/streak-stats)
 
 ### More
 
