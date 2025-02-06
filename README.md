@@ -9,8 +9,8 @@
 
 ### More
 
-1. Gitlab: https://gitlab.com/Dredegui
-2. Linkedin: https://www.linkedin.com/in/guilherme-m-pascoal
+1. Linkedin: https://www.linkedin.com/in/guilherme-m-pascoal
+2. Gitlab: https://gitlab.com/Dredegui
 
 <!--
 **Dredegui/Dredegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
