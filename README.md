@@ -1,5 +1,4 @@
 ### Hi there 👋
-uh
 
 🔭 I’m currently working on my Master's thesis on black-box observability and testing of distributed systems
 
