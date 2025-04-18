@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my Master's thesis on black-box observability and testing of distributed systems
 
-I'm also working on a paper on TEL!
+I'm also working on a paper on TEL, currently being approved for ECTEL!
 
 ## 🌱 Github Stats
 
