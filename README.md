@@ -2,8 +2,6 @@
 
 🔭 I’m currently working on my Master's thesis on black-box observability and testing of distributed systems
 
-I'm also working on a paper on TEL, currently being approved for ECTEL!
-
 ## 🌱 Github Stats
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dredegui&theme=dark" alt="GitHub Streak" /></a>
