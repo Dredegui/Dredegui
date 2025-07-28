@@ -8,7 +8,5 @@
 
 ### More
 
-1. Linkedin:
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guilherme-m-pascoal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/guilherme-m-pascoal?trk=profile-badge">Guilherme P.</a></div>
-2. Gitlab: https://gitlab.com/Dredegui
+<div class="badge-base LI-profile-badge" data-locale="pt_PT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guilherme-m-pascoal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/guilherme-m-pascoal?trk=profile-badge">Guilherme P.</a></div>
 
