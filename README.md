@@ -10,3 +10,4 @@
 
 <div class="badge-base LI-profile-badge" data-locale="pt_PT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guilherme-m-pascoal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/guilherme-m-pascoal?trk=profile-badge">Guilherme P.</a></div>
 
+<meta name="google-site-verification" content="QT5pUHgHaXejNNjOOh0AsNqjuCTmwDF9Fx9sc9Iv7go" />
